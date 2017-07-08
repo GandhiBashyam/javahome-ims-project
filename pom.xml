@@ -126,7 +126,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>Realtime</finalName>
+		<finalName>Realtime-$BUILD_NUMBER</finalName>
 		<plugins>
 		       <plugin>
 				<groupId>org.jacoco</groupId>
